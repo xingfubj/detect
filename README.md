@@ -1,2 +1,2 @@
 # detect
-face detection
+face detection example
